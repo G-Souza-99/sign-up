@@ -1,0 +1,14 @@
+@import url("components/form.css");
+
+body {
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  margin-top: 50px;
+  color:aliceblue;
+  text-shadow: -2px 3px 40px black;
+  background-color: #f8f8f6;
+}
+h1 {
+  font-family: "Helvetica", sans-serif;
+
+}
